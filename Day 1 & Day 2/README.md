@@ -14,7 +14,7 @@ Approach: Counting Method
 
 ![Coding-Practice](Sorting.png)
 
-Question 2:Given an array and an integer k, rotate the array to the right by k steps
+Question 2: Given an array and an integer k, rotate the array to the right by k steps
 efficiently.
 
 Example:
@@ -24,7 +24,7 @@ Output: [4, 5, 1, 2, 3]
 ![Coding-Practice](Right_Rotation.png)
 
 
-Given a string of brackets like "({[]})", use a list as a stack to determine
+Question 3: Given a string of brackets like "({[]})", use a list as a stack to determine
 if the string is balanced.
 
 Example:
@@ -35,7 +35,7 @@ Approach: Stack(LIFO)
 
 ![Coding-Practice](stack.png)
 
-Question 3: Given tokens of an RPN expression (e.g., ["2","1","+","3","*"]), use a list
+Question 4: Given tokens of an RPN expression (e.g., ["2","1","+","3","*"]), use a list
 as a stack to compute the result.
 
 ![Coding-Practice](RPN.png)
