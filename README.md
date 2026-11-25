@@ -11,6 +11,7 @@ Input:  [0, 2, 1, 2, 0, 1, 0]
 Output: [0, 0, 0,1, 1, 2, 2]
 
 Approach: Counting Method
+
 ![Coding-Practice](Sorting.png)
 
 Question 2:Given an array and an integer k, rotate the array to the right by k steps
@@ -26,10 +27,12 @@ Output: [4, 5, 1, 2, 3]
 Given a string of brackets like "({[]})", use a list as a stack to determine
 if the string is balanced.
 
-Approach: Stack(LIFO)
 Example:
 Input: "({[]})"
 Output: Balanced
+
+Approach: Stack(LIFO)
+
 ![Coding-Practice](stack.png)
 
 Question 3: Given tokens of an RPN expression (e.g., ["2","1","+","3","*"]), use a list
