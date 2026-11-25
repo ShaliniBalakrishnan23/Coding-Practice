@@ -19,7 +19,9 @@ efficiently.
 Example:
 Input: [1, 2, 3, 4, 5]
 Output: [4, 5, 1, 2, 3]
-![Coding-Practice](Right Rotation.png)
+
+![Coding-Practice](Right_Rotation.png)
+
 
 Given a string of brackets like "({[]})", use a list as a stack to determine
 if the string is balanced.
@@ -33,5 +35,5 @@ Output: Balanced
 Question 3: Given tokens of an RPN expression (e.g., ["2","1","+","3","*"]), use a list
 as a stack to compute the result.
 
-![Coding-Practice](tokens.png)
+![Coding-Practice](RPN.png)
 
